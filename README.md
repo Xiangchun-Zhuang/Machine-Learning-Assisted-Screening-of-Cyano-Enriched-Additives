@@ -1,0 +1,2 @@
+# A-High-Throughput-Computational-Platform-for-Autonomous-Discovery-of-Electrolyte-Additives
+The Battery Candidate Discovery Pipeline is a high-performance cheminformatics framework designed to accelerate the discovery of functional electrolyte additives. The pipeline automates the transition from raw SMILES strings to ranked, clustered, and visualized candidates, utilizing advanced molecular descriptors and unsupervised machine learning.
